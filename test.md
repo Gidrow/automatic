@@ -6,6 +6,8 @@
 1. > $ git config --global user.name "John Doe"
 2. > $ git config --global user.email johndoe@example.com
 
+*Данные необходимо внести только один раз.*
+
 
 
 # **Команды git**
