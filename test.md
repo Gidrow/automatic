@@ -3,6 +3,9 @@
 **Контроль версий** - *отслеживание изменений исходного кода и управление им.*
 
 # **Ввод идентификатора**
+1. > $ git config --global user.name "John Doe"
+2. > $ git config --global user.email johndoe@example.com
+
 
 
 # **Команды git**
