@@ -4,6 +4,8 @@
 
 # **Контроль версий необходим для** 
 
+1. Хранить разные версии проекта;
+
 # **Ввод идентификатора**
 1. > $ git config --global user.name "John Doe"
 2. > $ git config --global user.email johndoe@example.com
