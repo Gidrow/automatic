@@ -8,8 +8,6 @@
 2. Возвращаться к разным версиям проекта.
 
 # **Ввод идентификатора**
-1. > $ git config --global user.name "John Doe"
-2. > $ git config --global user.email johndoe@example.com
 
 <image src="1.png" alt="Ввод идентификатора">
 
