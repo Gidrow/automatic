@@ -29,4 +29,4 @@
 * **git checkout**   - Переключение между версиями
 * **git diff**       - Показывает разницу между текущим файлами сохранённым
 * **git branch**     - Создает новую ветку
-* **gitrtythberthrtjn branch -d**  - Удаляет ветку 
+* *gdfgervbjvlkjerivjpijlkjmcfoikwerjhfoiwjefoiwje
