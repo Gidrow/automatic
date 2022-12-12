@@ -32,4 +32,4 @@
 * **git branch -d**  - Удаление ветки
 * **git merge**      - Слияние веток
 
-Fin dz2
+Fin dz2 !!!
